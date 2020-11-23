@@ -1,2 +1,2 @@
-# Projection_Algorithm_in_Binary_Classification
+# Projection_Algorithms_in_Binary_Classification
  Thesis
